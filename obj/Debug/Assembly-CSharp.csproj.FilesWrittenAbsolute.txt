@@ -26,3 +26,5 @@
 /Users/fukudaakihisa/Desktop/Unity/ShaderSample/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/fukudaakihisa/Desktop/Unity/ShaderSample/Temp/bin/Debug/Unity.Cecil.Pdb.dll
 /Users/fukudaakihisa/Desktop/Unity/ShaderSample/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/fukudaakihisa/Desktop/Unity/ShaderSample/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/fukudaakihisa/Desktop/Unity/ShaderSample/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb

@@ -58,6 +58,7 @@
      <Compile Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
      <Compile Include="Assets\Script\DragonController.cs" />
      <Compile Include="Assets\Script\ShaderController.cs" />
+     <Compile Include="Assets\Script\Snow.cs" />
      <None Include="Assets\Shader\lava.shader" />
      <None Include="Assets\Shader\Noise\PerlinNoise.shader" />
      <None Include="Assets\Shader\Noise\RandomNoise.shader" />
@@ -70,6 +71,7 @@
      <None Include="Assets\Fortress\Shader\Diffuse.shader" />
      <None Include="Assets\Shader\Toon.shader" />
      <None Include="Assets\Shader\RimLighting.shader" />
+     <None Include="Assets\Shader\CutOut.shader" />
      <None Include="Assets\Shader\CircleDraw.shader" />
      <None Include="Assets\Shader\sample.shader" />
      <None Include="Assets\Shader\Flag.shader" />
@@ -83,6 +85,7 @@
      <None Include="Assets\Shader\Noise\ValueNoise.shader" />
      <None Include="Assets\Shader\StendGlass.shader" />
      <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\Shader\SnowFall.shader" />
      <None Include="Assets\Free Low Poly Toon Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
      <None Include="Assets\Fortress\Shader\TwoSided.shader" />
      <None Include="Assets\Shader\water.shader" />

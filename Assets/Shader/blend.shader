@@ -5,7 +5,7 @@
 		_MaskTex ("Mask Texture", 2D) = "white" {}
 	}
 	SubShader {
-		Tags { "RenderType"="Opaque" }
+		Tags { "RenderType"="Opaque" "Queue" = "Geometry-2"}
 		LOD 200
 
 		CGPROGRAM
